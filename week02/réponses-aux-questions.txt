@@ -1,0 +1,8 @@
+1. Quelle est l’unité de longueur absolue la plus courante pour les écrans ?
+Réponse : px (pixels)
+
+2. Quelle unité de longueur relative CSS est basée sur la taille de police de l’élément racine ?
+Réponse : rem
+
+3. Étant donné une valeur de couleur hexadécimale #0e421c, quelle est la valeur du niveau vert ?
+Réponse : 42
